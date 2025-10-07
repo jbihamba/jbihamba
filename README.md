@@ -57,6 +57,7 @@ My mission is to deliver **clean, performant, and user-centric applications** th
 ---
 
 ## 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/joseph-bihamba](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile))
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]([https://www.instagram.com/Joe_bihamba](https://www.instagram.com/joe_bihamba/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joseph-bihamba)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/Joe_bihamba/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/250791750351)
+
