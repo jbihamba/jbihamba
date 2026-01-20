@@ -47,7 +47,7 @@ My mission is to deliver **clean, performant, and user-centric applications** th
 - 👕 [E-commerce](https://github.com/jbihamba/OnlineStoreManagementSystem) — E-commerce platform with admin dashboard and cart system  
 - 🏠 [Kigali House Connect](https://github.com/jbihamba/kigali-house-connect) — Real estate platform connecting buyers and sellers in Kigali  
 - 🌐 [Kadea Online Clone](https://github.com/jbihamba/kadeaonlin) — Clone of the Kadea Online platform for educational resources
-- 📇 .[ProConnect CRM].(https://github.com/jbihamba/ProConnect-CRM-Professionnel) — CRM professionnel pour la gestion des contacts, des interactions clients et du suivi des performance
+- 📇 .[ProConnect CRM](https://github.com/jbihamba/ProConnect-CRM-Professionnel) — CRM professionnel pour la gestion des contacts, des interactions clients et du suivi des performance
 
 ---
 
