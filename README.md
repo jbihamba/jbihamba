@@ -48,6 +48,7 @@ My mission is to deliver **clean, performant, and user-centric applications** th
 - 🏠 [Kigali House Connect](https://github.com/jbihamba/kigali-house-connect) — Real estate platform connecting buyers and sellers in Kigali  
 - 🌐 [Kadea Online Clone](https://github.com/jbihamba/kadeaonlin) — Clone of the Kadea Online platform for educational resources
 - 📇 .[ProConnect CRM](https://github.com/jbihamba/ProConnect-CRM-Professionnel) — Professional CRM for managing contacts, customer interactions, and performance tracking
+- ⚡ [DRC-connect](https://github.com/jbihamba/drc-connect) - Digital Government Services for the Democratic Republic of Congo
 
 ---
 
